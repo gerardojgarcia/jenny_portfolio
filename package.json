@@ -1,0 +1,17 @@
+{
+  "name": "jenny_portfolio",
+  "version": "1.0.0",
+  "description": "A portolio site for the wonderful Jennifer Payan ",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "keywords": [],
+  "author": "Gerardo Garcia",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.51.0"
+  }
+}
